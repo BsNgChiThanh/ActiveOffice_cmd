@@ -1,4 +1,4 @@
-# ActiveOffice bằng cmd
+# Active Office bằng cmd
 - ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
 - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 - Kích hoạt Office 365 Mondo, 2024, 2021, 2019, 2016, 2013, 2010 bằng cmd và auto renew tự động gia hạn kích hoạt vĩnh viễn.

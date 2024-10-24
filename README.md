@@ -8,7 +8,7 @@
   - ![image](https://github.com/user-attachments/assets/357e3155-8b04-45ea-baa2-73815278d46d)
 
 ## Cách sử dụng:
-  - Download file về rồi chạy nó bằng quyền quản trị **Run as Administrator**
+  - Download file cmd về [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/ActiveOffice_cmd/IMP/ActiveOfficeCMD.cmd) rồi chạy nó bằng quyền quản trị **Run as Administrator**
   - Hoặc chạy trực tiếp từ **PowerShell** bằng **Run as Administrator** rồi dán câu lệnh sau vào:
     ```php
     irm https://raw.githubusercontent.com/BsNgChiThanh/ActiveOffice_cmd/IMP/ActiveOfficeCMD.ps1 | iex

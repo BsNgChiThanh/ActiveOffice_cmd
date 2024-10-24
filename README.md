@@ -13,3 +13,5 @@
     ```php
     irm https://raw.githubusercontent.com/BsNgChiThanh/ActiveOffice_cmd/IMP/ActiveOfficeCMD.ps1 | iex
     ```
+  - Chạy Active xong thì bạn chạy tạo tác vụ gia hạn kích hoạt vĩnh viễn.
+  - Done!

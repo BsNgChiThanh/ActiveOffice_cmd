@@ -8,7 +8,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 :MAINMENU
 cls
 mode con cols=98 lines=40
-
+color 1F
 echo.                                        
 echo.                                       BSCK1. NGUYEN CHI THANH
 echo.                     _________________________________________________________
